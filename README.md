@@ -81,11 +81,3 @@
 </div>
 
 ###
-
-<h2 align="left">🏆 Achievements:</h2>
-
-- 🥇 Weekly Challenge Winner in Web Development – DEVrhylme Community  
-- 🏅 Smart India Hackathon 2023 Finalist  
-- 📜 Postman API Fundamentals – Student Expert  
-
-###
